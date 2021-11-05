@@ -107,3 +107,4 @@ dist/
 bundle.*
 project-dist
 files-copy
+.DS_Store
